@@ -10,4 +10,6 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
+Clone then cd into `ANYTHINK-MARKET-GKYVK` directory. Once inside, run the `docker-compose up` command. Navigate to ([http://localhost:3000/api/ping](http://localhost:3000/api/ping), to verify that the backend is up and running. Next, navigate to ([ http://localhost:3001/register](http://localhost:3001/register), where you should be able to register new users.
+
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
